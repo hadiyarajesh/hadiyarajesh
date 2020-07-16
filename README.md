@@ -6,8 +6,6 @@
 👨‍💻 I'm professional Android developer working with latest tech stack<br>
 ❤️ I love to learn new things and contribute to open-source community.
 
-🔭 I’m currently working on something cool
-
 
 ### How to reach me
 
