@@ -3,7 +3,7 @@
 
 ### About me
 
-👨‍💻 I'm professional Android developer<br>
+👨‍💻 I'm a professional Android developer<br>
 ❤️ I love to learn new things and contribute to open-source community.
 
 
