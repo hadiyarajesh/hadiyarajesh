@@ -3,7 +3,8 @@
 
 ### About me
 
-👨‍💻 I'm a professional Android developer<br>
+👨‍💻 Professional software architect/developer<br>
+👨‍💻 Kotlin | Spring Boot | Android<br>
 ❤️ I love to learn new things and contribute to open-source community.
 
 
