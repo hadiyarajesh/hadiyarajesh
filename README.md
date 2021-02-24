@@ -5,7 +5,7 @@
 
 👨‍💻 Professional software architect/developer<br>
 👨‍💻 Kotlin | Spring Boot | Android<br>
-❤️ I love to learn new things and contribute to open-source community.
+❤️ Love to learn new things and contribute to open-source community.
 
 
 ### How to reach me
