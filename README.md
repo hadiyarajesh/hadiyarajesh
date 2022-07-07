@@ -1,4 +1,4 @@
-# Hi, I am Rajesh <img src="https://github.com/hadiyarajesh/hadiyarajesh/blob/master/Assets/hi.gif" width="30px">
+# Hi, I am Rajesh <img src="https://github.com/hadiyarajesh/hadiyarajesh/blob/master/Assets/hi.gif" width="30px" height="30px">
 
 <img align="right" width="350" src="https://github.com/hadiyarajesh/hadiyarajesh/blob/master/Assets/dev.gif"  alt="dev_logo"/>
 
