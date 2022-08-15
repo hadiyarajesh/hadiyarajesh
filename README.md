@@ -4,7 +4,7 @@
 
 ### About me
 👨‍💻 Professional software developer <br>
-💻 Build stuff with Kotlin, Java, Android and Spring Boot  <br>
+💻 Build cool projects with Kotlin, Java, Android and Spring Boot  <br>
 ❤️ Active open-source contributor
 <br>
 
