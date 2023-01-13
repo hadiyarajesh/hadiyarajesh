@@ -7,18 +7,33 @@
 👨‍💻 I'm a professional software developer<br>
 💻 I build cool projects with Kotlin, Java, Android and Spring Boot<br>
 ❤️ I'm an active open-source contributor<br>
-🔭 I'm currently working on <a href="https://mystore.club" target="_blank">MyStore</a>, a platform to buy/sell any type
-of digital content<br>
+🔭 I'm currently working on <a href="https://mystore.club" target="_blank">MyStore</a>, a platform to buy/sell digital content and make money with your content<br>
 🤝 I'm looking to collaborate on interesting open-source projects
 
-## 🌐 Socials
+</br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hadiyarajesh)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hadiyarajesh)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hadiya__rajesh)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hadiyarajesh)
+## 🌐 Let's connect 
+<p float="left">
+  <a href="https://linkedin.com/in/hadiyarajesh" title="Checkout my LinkedIn profile">
+    <img src="/Assets/linkedin.png" width="120" alt="LinkedIn" />
+  </a>
+ 
+  <a href="https://youtube.com/@hadiyarajesh" title="Checkout my YouTube channel">
+    <img src="/Assets/youtube.png" width="120" alt="YouTube" />
+  </a>
+  
+  <a href="https://twitter.com/hadiya__rajesh" title="Checkout my Twitter profile">
+    <img src="/Assets/twitter.png" width="120" alt="Twitter" />
+  </a>
+  
+  <a href="https://medium.com/@hadiyarajesh" title="Checkout my Medium blog">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="50" alt="Medium" />
+  </a>
+</p>
 
-## 💻 Tech stack
+</br>
+
+## 💻 My tech stack
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -31,17 +46,22 @@ of digital content<br>
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📊 GitHub stats
+</br>
+
+## 📊 GitHub overview
 
 <div>
  <div>
-<img src="https://github-readme-stats.vercel.app/api?username=hadiyarajesh&theme=white&hide_border=false&include_all_commits=true&count_private=true" alt="github_stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadiyarajesh&theme=white&hide_border=false" alt="github_contribution"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=hadiyarajesh&theme=white&hide_border=false&include_all_commits=true&count_private=true" alt="github_stats"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadiyarajesh&theme=white&hide_border=false" alt="github_contribution"/>
+ </div>
+ 
+ <div>
+   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiyarajesh&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most_used_languages"/> -->
+ </div>
 </div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiyarajesh&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most_used_languages"/>
-  </div>
-</div>
+
+</br>
 
 ## 💰 Donate
 
