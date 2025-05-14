@@ -5,10 +5,8 @@
 ## 💫 About
 
 👨‍💻 I'm a professional software developer<br>
-💻 I build cool projects with Kotlin, Java, Android and Spring Boot<br>
-❤️ I'm an active open-source contributor<br>
-🔭 I'm currently working on <a href="https://mystore.club" target="_blank">MyStore</a>, a platform to buy/sell digital content and make money with your content<br>
-🤝 I'm looking to collaborate on interesting open-source projects
+❤️  I build apps, mentor developers and deliver speeches at conferences & meetups. <br>
+🤝 I'm open to collaborate on interesting open-source projects
 
 </br>
 
